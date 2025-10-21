@@ -8,7 +8,7 @@ A cinematic web application that allows users to collaboratively create unique, 
   2. Upload it to a site like https://imgur.com/upload
   3. Copy the "Direct Link" and paste it below to replace this placeholder.
 -->
-<img src="YOUR_SCREENSHOT_URL_HERE" alt="AI Story Generator Screenshot" width="800">
+<img src="https://imgur.com/Iecgq8f" width="800">
 
 ---
 
