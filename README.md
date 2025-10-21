@@ -60,6 +60,6 @@ This project was built to be demonstrated locally.
   OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxx
 
 4.Run the development server:
-npm run dev
+npm run dev or just double click start-story-app.bat
 
 
