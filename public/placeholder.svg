@@ -1,0 +1,6 @@
+<!-- File: public/placeholder.svg -->
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="600" fill="#111827"/>
+<path d="M300 350L400 250L500 350L600 250" stroke="#4B5563" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="350" cy="250" r="30" stroke="#4B5563" stroke-width="4"/>
+</svg>
