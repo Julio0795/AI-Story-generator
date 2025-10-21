@@ -63,33 +63,3 @@ This project was built to be demonstrated locally.
 npm run dev
 
 
-
----
-
-### Step 5: Add a Screenshot (Highly Recommended)
-
-1.  Run your application locally and take a beautiful screenshot of it in action.
-2.  Go to [https://imgur.com/upload](https://imgur.com/upload) and upload your screenshot.
-3.  After it uploads, right-click on the image and select **"Copy Image Address"**.
-4.  In the GitHub editor, replace the `YOUR_SCREENSHOT_URL_HERE` part of the template with the URL you just copied.
-
----
-
-### Step 6: Save the File
-
-Scroll down to the bottom of the GitHub editor page. You'll see a green button that says **"Commit changes..."**.
-
-**Click that button.**
-
-You can just leave the default commit message.
-
----
-
-### You Are Done!
-
-Refresh your GitHub repository page.
-
-You will now see your beautiful, professional README file proudly displayed on the main page. This is the "face" of your project for any potential client or employer. It explains what the project is, what it can do, what technologies you used, and exactly how to run it.
-
-You now have a complete, A+ portfolio piece on your GitHub. Congratulations
-  
